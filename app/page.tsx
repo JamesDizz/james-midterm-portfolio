@@ -14,7 +14,7 @@ export default function Home() {
               <h1 className="text-2xl font-bold sm:text-3xl md:text-4xl lg:text-5xl">James Patrick Dizon</h1>
               <p className="text-xs sm:text-sm md:text-base">BSIT 3C | Front-end Developer | Portfolio Project</p>
               <p className="max-w-3xl text-xs leading-relaxed text-black/70 dark:text-white/80 sm:text-sm md:text-base">
-                Aspiring front-end developer with a passion for crafting clean, user-friendly interfaces. This portfolio site is built with Next.js and Tailwind CSS, showcasing projects that align with the midterm mockup structure. Explore my work and get in touch for collaboration opportunities!
+                Aspiring front-end developer with a passion for crafting clean, user-friendly interfaces. This portfolio site is built with Next.js and Tailwind CSS. Explore my work and get in touch for collaboration opportunities!
               </p>
               <div className="flex flex-wrap gap-2 sm:gap-3">
                 <Link href="/projects" className="rounded-md border border-black/20 px-3 py-2 text-xs sm:px-4 sm:py-2 sm:text-sm hover:bg-black/5 dark:border-white/20 dark:hover:bg-white/10 transition">

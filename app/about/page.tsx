@@ -8,7 +8,7 @@ export default function AboutPage() {
       <main className="mx-auto w-full max-w-5xl px-4 py-6 md:px-6 md:py-10">
         <h1 className="text-2xl font-bold md:text-3xl lg:text-4xl">About Me</h1>
         <p className="mt-3 text-sm leading-relaxed text-black/80 dark:text-white/80 md:text-base">
-            Hi, I&apos;m James Patrick Dizon, an aspiring front-end developer with a passion for crafting clean and user-friendly interfaces. I am currently pursuing a Bachelor of Science in Information Technology (BSIT) on Cordova Public College. I am in my 3rd year, section C. This portfolio site is built using Next.js and Tailwind CSS, showcasing projects that align with the midterm mockup structure. I am eager to explore opportunities for collaboration and growth in the field of web development. Feel free to check out my projects and get in touch!
+            Hi, I&apos;m James Patrick Dizon, an aspiring front-end developer with a passion for crafting clean and user-friendly interfaces. I am currently pursuing a Bachelor of Science in Information Technology (BSIT) on Cordova Public College. I am in my 3rd year, section C. This portfolio site is built using Next.js and Tailwind CSS. I am eager to explore opportunities for collaboration and growth in the field of web development. Feel free to check out my projects and get in touch!
         </p>
         <div className="mt-8 space-y-6 rounded-xl border border-black/10 bg-white p-4 dark:border-white/10 dark:bg-black md:p-6 lg:p-8">
           <div>

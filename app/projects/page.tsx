@@ -6,7 +6,7 @@ export default function ProjectsPage() {
     <div className="min-h-screen bg-white text-black dark:bg-black dark:text-white">
       <main className="mx-auto w-full max-w-5xl px-3 py-6 sm:px-4 sm:py-8 md:px-6 md:py-10">
         <h1 className="text-2xl font-bold sm:text-3xl md:text-4xl">Projects</h1>
-        <p className="mt-2 text-xs sm:text-sm text-black/70 dark:text-white/70">All project work matching the midterm mockup structure.</p>
+        <p className="mt-2 text-xs sm:text-sm text-black/70 dark:text-white/70">Welcome, this is my projects.</p>
 
         <div className="mt-6 grid gap-3 sm:gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
           {projects.map((project) => {
